@@ -12,29 +12,29 @@ redirect_from:
 Education
 ======
 * B.S. in Medicine, [Sichuan Medical University](http://wcums.scu.edu.cn/index/wzsy.htm), 2010-2012
-* M.S. in Applied Mathematics, [Sichuan University](http://www.scu.edu.cn/), 2012-2015
+* M.S. in Applied Mathematics, [Sichuan University](http://en.scu.edu.cn/), 2012-2015
 * Ph.D in Applied Mathematics, [Hong Kong University of Science and Technology](https://www.ust.hk/), 2015-Now 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2014: Researcher
+  * [HUAXI Futures](http://www.hxqh168.com/index.shtml)
+  * Duties included: Quatitative trading strategy development
 
-* Fall 2015: Research Assistant
-  * Github University
+* Fall 2015: Visiting student
+  * Peking University, [Beijing Internantional Center for Mathematical Research](http://bicmr.pku.edu.cn/)
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MATLBA
+* C++
+* Python
+* Math Tools
+  * Optimization
+  * Probability
+  * Linear Algebra
 
 Publications
 ======
@@ -48,8 +48,13 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+Teaching Assistant
+====== 
+* Math 1013 Calculus IB
+* Math 2121 Linear Algebra
+* Math 3322 Matrix Computation
+* Math 3332 Data Analytic Tools
+* Math 5007 Optimization and Matrix Computation
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
