@@ -38,12 +38,11 @@ Skills
 
 Publications
 ======
-[Towards the optimal construction of a loss function without spurious local minima for solving quadratic equations](https://gitipanda.github.io/publications/)
-
-  <ul>{% Towards the optimal construction of a loss function without spurious local minima for solving quadratic equations %}
-    {% http://arxiv.org/abs/1809.10520 %}
+[Towards the optimal construction of a loss function without spurious local minima for solving quadratic equations](https://arxiv.org/abs/1809.10520)
+ 
+   <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks %}
