@@ -1,16 +1,17 @@
 # main links links
 main:
-  - title: "Blog" #my blog
+  - title: "Blog" # what's new
     url: /year-archive/
 
-  - title: "Research"
+  - title: "Research" #original: Guide
+    url: /markdown/
+
+
+  - title: "Publications"
     url: /publications/
     
-  - title: "Teaching"
-    url: /teaching/ 
-
-  - title: "Events"
-    url: /talks/    
+ # - title: "Teaching"
+ #   url: /teaching/   
   
   - title: "CV"
     url: /cv/
