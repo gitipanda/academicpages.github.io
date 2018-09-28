@@ -10,9 +10,14 @@ redirect_from:
 
 I'm currently a PhD student in [Mathematics Department](http://www.math.ust.hk/) of Hong Kong University of Science and Technology. I work with [Cai Jianfeng](https://www.math.ust.hk/~jfcai/), and my nice advisors are [Wang Yang](https://www.math.ust.hk/~yangwang/) and [Yao Yuan](https://www.math.ust.hk/people/faculty/profile/yuany/). 
 
-My research interest lies in efficient and provable algorithms for industrial and mathematical problems, landscape and geometric analysis of non-convex problems, deep learning application and theory, based on optimization, probability and random matrix tools.
+My research interest lies in efficient and provable algorithms for industrial and mathematical problems, landscape and geometric analysis of non-convex problems, deep learning theory, with theoretical guarantee that may based on optimization, probability and random matrix tools.
 
-A data-driven personal website
+Contact
+=====
+Email: zlice@ust.hk
+Office: 3209B, Lift 19
+
+What' new
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
