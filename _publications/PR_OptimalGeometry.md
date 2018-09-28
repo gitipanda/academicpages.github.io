@@ -6,7 +6,7 @@ venue: "ArXiv"
 date: 2018-09-27
 citation: 'Zhenzhen Li, Jian-Feng Cai, Ke Wei.  In submission to *SIAM Journal on Mathematics of Data Science*.'
 ---
-[[ArXiv]](https://arxiv.org/pdf/1809.10520) [[Code]]()
+[[ArXiv]](https://arxiv.org/pdf/1809.10520) Code
 
 
 ## Abstract
