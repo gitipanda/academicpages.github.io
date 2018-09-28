@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Medicine, [Sichuan Medical University](http://wcums.scu.edu.cn/index/wzsy.htm), 2010-2012
+* M.S. in Applied Mathematics, [Sichuan University](http://www.scu.edu.cn/), 2012-2015
+* Ph.D in Applied Mathematics, [Hong Kong University of Science and Technology](https://www.ust.hk/), 2015-Now 
 
 Work experience
 ======
@@ -38,8 +38,8 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+  <ul>{% Towards the optimal construction of a loss function without spurious local minima for solving quadratic equations %}
+    {% http://arxiv.org/abs/1809.10520 %}
   {% endfor %}</ul>
   
 Talks
