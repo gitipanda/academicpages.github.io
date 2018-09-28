@@ -81,10 +81,10 @@ analytics:
 author:
   name             : "Li Zhenzhen"
   avatar           : "profile.png"
-  bio              : "PhD student - Hong Kong University of Science and Technology "
+  bio              : "PhD student - HKUST"
   location         : "Hong Kong"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # I don't have yet"http://yourfullgooglescholarurl.com"
   email            :
   uri              :
   bitbucket        :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "gitipanda"
   google_plus      :
   keybase          :
   instagram        :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
