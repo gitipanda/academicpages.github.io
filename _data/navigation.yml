@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Blog Posts"
+  - title: "Blog" #my blog
     url: /year-archive/
 
-  - title: "Publications"
+  - title: "Research"
     url: /publications/
     
   - title: "Teaching"
