@@ -9,7 +9,7 @@ paperurl:
 
 citation: 'Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu. In submission to <i> </i>'
 ---
-[[ArXiv]](https://arxiv.org/abs/1804.03782) [[Code]](https://github.com/desire2020/Cooperative-Training)
+[[ArXiv]](https://arxiv.org/pdf/1809.10520) [[Code]]()
 
 Zhenzhen Li, Jian-Feng Cai, Ke Wei. In submission to *SIAM Journal on Mathematics of Data Science*.
 
