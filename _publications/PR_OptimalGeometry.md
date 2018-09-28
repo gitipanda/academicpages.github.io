@@ -4,11 +4,9 @@ collection: publications
 permalink: /publications/PR_OptimalGeometry
 excerpt: 
 date: 2018-09-27
-venue: '[ArXiv](http://arxiv.org/abs/1809.10520)  [Download](https://arxiv.org/pdf/1809.10520.pdf)'
+venue: '[ArXiv](http://arxiv.org/abs/1809.10520)' [Download](https://arxiv.org/pdf/1809.10520.pdf)
 paperurl: 
 
-citation: 'Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu. In submission to <i> </i>'
----
 [[ArXiv]](https://arxiv.org/pdf/1809.10520) [[Code]]()
 
 Zhenzhen Li, Jian-Feng Cai, Ke Wei. In submission to *SIAM Journal on Mathematics of Data Science*.
