@@ -2,10 +2,10 @@
 title: "Towards the optimal construction of a loss function without spurious local minima for solving quadratic equations"
 collection: publications
 permalink: /publications/PR_OptimalGeometry
-excerpt: 
 date: 2018-09-27
 venue: '[ArXiv](http://arxiv.org/abs/1809.10520)' [Download](https://arxiv.org/pdf/1809.10520.pdf)
 paperurl: 
+---
 
 [[ArXiv]](https://arxiv.org/pdf/1809.10520) [[Code]]()
 
