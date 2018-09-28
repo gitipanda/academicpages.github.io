@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm Li Zhenzhen, my supervisor is [Cai Jianfeng](https://www.math.ust.hk/~jfcai/), advisors are [Wang Yang] (https://www.math.ust.hk/~yangwang/) and [Yao Yuan](https://www.math.ust.hk/people/faculty/profile/yuany/)
+I'm currently a PhD student in [Mathematics Department](http://www.math.ust.hk/) of Hong Kong University of Science and Technology. I work with [Cai Jianfeng](https://www.math.ust.hk/~jfcai/), and my nice advisors are
+ [Wang Yang](https://www.math.ust.hk/~yangwang/),
+[Wang Yang](https://www.math.ust.hk/~yangwang/) and [Yao Yuan](https://www.math.ust.hk/people/faculty/profile/yuany/). 
 
 
 
