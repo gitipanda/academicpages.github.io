@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Li Zhenzhen"
+title                    : "iPanda"
 title_separator          : "-"
 name                     : &name "Li Zhenzhen"
 description              : &description "personal description" # changed to be "PhD student at HKUST"??
