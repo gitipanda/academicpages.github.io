@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "SPR"
 collection: publications
 permalink: /publication/SPR
 excerpt: 'hahahah'
