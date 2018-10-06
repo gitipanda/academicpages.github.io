@@ -8,6 +8,6 @@ venue: 'Jounal unknown'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
 
-[Draft paper here](http://academicpages.github.io/files/paper2.pdf)
+[Draft](http://academicpages.github.io/files/paper2.pdf)
 
 
