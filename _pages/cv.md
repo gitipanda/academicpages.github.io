@@ -62,4 +62,10 @@ Teaching Assistant
   
 Awards and Honors
 ======
-* Currently signed in to 43 different slack teams
+* 2010-2011 National Scholarship, Sichuan University
+* 2012-2013 National Scholarship, Sichuan University
+* 2013-2014 National Scholarship, Sichuan University
+* 2015-2019 Hong Kong PhD Fellowship, Research Grants Council (RGC) of Hong Kong.
+* 2015-2016 Din-Yu Hsieh "Best Teaching Assistant" Teaching Award
+* 2016-2017 Din-Yu Hsieh "Best Teaching Assistant" Teaching Award
+* 2017-2018 Din-Yu Hsieh "Best Teaching Assistant" Teaching Award
