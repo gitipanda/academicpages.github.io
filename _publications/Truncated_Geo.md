@@ -3,7 +3,7 @@ title: "Towards the optimal construction of a loss function without spurious loc
 collection: publications
 permalink: /publications/Truncated_Geo
 date: 2018-9-28
-citation: 'Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang and Dell Zhang. <i>The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval.</i> <b>SIGIR 2017.</b> <b> <span style="color:red">Best Paper Award Honorable Mention</span> </b>'
+citation: 'Zhenzhen Li, Jian-Feng Cai, Ke Wei.'
 ---  
 [[ArXiv]](https://arxiv.org/abs/1809.10520)  [[Code]]
 
