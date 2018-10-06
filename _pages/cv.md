@@ -60,6 +60,6 @@ Teaching Assistant
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards and Honors
 ======
 * Currently signed in to 43 different slack teams
