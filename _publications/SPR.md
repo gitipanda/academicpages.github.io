@@ -1,5 +1,5 @@
 ---
-title: "<b><span style="color:red"> Working Paper</span></b>: Sparse Phase Retrieval Under Optimal Sampling with Local Guarantee"
+title: " Working Paper: Sparse Phase Retrieval Under Optimal Sampling with Local Guarantee"
 collection: publications
 permalink: /publication/SPR
 excerpt: 'This is my current working paper focus on retrieval sparse signals under optimal sampling complexity. We design an algorithms for sparse phase retrieval and would provide theoretical guarantee for it.'
