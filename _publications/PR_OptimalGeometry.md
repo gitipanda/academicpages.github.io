@@ -3,7 +3,7 @@ title: "Towards the optimal construction of a loss function without spurious loc
 collection: publications
 permalink: /publications/PR_OptimalGeometry
 venue: "ArXiv"
-date: 2018-09
+date: 2018-9-28
 ---
 [[ArXiv]](https://arxiv.org/pdf/1809.10520) Code
 
