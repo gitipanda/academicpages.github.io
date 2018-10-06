@@ -3,6 +3,7 @@ title: "Towards the optimal construction of a loss function without spurious loc
 collection: publications
 permalink: /publications/Truncated_Geo
 date: 2018-9-28
+venue: 'ArXiv, submitted to SIAM Journal on Data Science, 2018'
 citation: 'Zhenzhen Li, Jian-Feng Cai, Ke Wei.'
 ---  
 [[ArXiv]](https://arxiv.org/abs/1809.10520)  [[Code]]
