@@ -2,7 +2,7 @@
 title: "Towards the optimal construction of a loss function without spurious local minima for solving quadratic equations"
 collection: publications
 permalink: /publications/Truncated_Geo
-excerpt: 'The problem of finding a vector x which obeys a set of quadratic equations.'
+excerpt: 'The problem of finding a vector $x$ which obeys a set of quadratic equations.'
 date: 2018-9-28
 venue: 'ArXiv, submitted to SIAM Journal on Data Science, 2018'
 citation: 'Zhenzhen Li, Jian-Feng Cai, Ke Wei.'
