@@ -6,6 +6,7 @@ venue: "ArXiv"
 date: 2018-9-28
 ---
 [[ArXiv]](https://arxiv.org/pdf/1809.10520) Code
+The problem of finding a vector x which obeys a set of quadratic equations |a⊤kx|2=yk, k=1,⋯,m, plays an important role in many applications. In this paper we consider the case when both x and ak are real-valued vectors of length n. A new loss function is 
 
 
 ## Abstract
