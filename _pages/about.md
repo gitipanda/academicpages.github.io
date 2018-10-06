@@ -22,6 +22,7 @@ What' new
 ======
 
 **SIAM NEWS**
+------
 1. SIAM conference on [Analytic Algorithmics and Cominatorics](https://www.siam.org/conferences/CM/Main/analco19), Jan 6-7, 2019, California, US.
 1. SIAM conference on [Computational Science and Engineering](https://www.siam.org/conferences/CM/Main/cse19), Feb 25- Mar,1, 2019, Washington, US.
 1. SIAM conference on [Data Mining](https://www.siam.org/conferences/CM/Main/sdm19), May 2-4, 2019, Alberta, Canada. 
@@ -31,6 +32,6 @@ What' new
 1. SIAM conference on Optimiztion, May 26-29, 2020, Hong Kong.
 1. SIAM conference on Imaging Science, July 6-9, 2020, Ontario, Canada.
 **IPAM NEWS**
+------
 1. Workshop on [Geometry of Big Data](http://www.ipam.ucla.edu/programs/workshops/workshop-iii-geometry-of-big-data/?tab=overview), April 29- May3, 2019.
 1. Workshop on [Deep Geometric Learning of Big Data and Applications](http://www.ipam.ucla.edu/programs/workshops/workshop-iv-deep-geometric-learning-of-big-data-and-applications/), May 20-24, 2019.
-1.
