@@ -17,14 +17,18 @@ Education
 
 Work experience
 ======
-* Summer 2014: Researcher
-  * [HUAXI Futures](http://www.hxqh168.com/index.shtml)
+* Summer 2014: Modeling Researcher
+  * [HUAXI Futures Company](http://www.hxqh168.com/index.shtml)
   * Duties included: Quatitative trading strategy development
 
-* Fall 2015: Visiting student
-  * Peking University, [Beijing Internantional Center for Mathematical Research](http://bicmr.pku.edu.cn/)
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2015: Visiting  [Beijing Internantional Center for Mathematical Research](http://bicmr.pku.edu.cn/)
+  * 
+
+* Summer 2016: 
+  
+* 2017: Wechat Laboratory
+  * Project work: We collaborated with Wechat lab, help them solve real-time video denoising problem. In the project, we are using a data driven dictionary learning method to do the denoising task.
+
   
 Skills
 ======
@@ -38,9 +42,7 @@ Skills
 
 Publications
 ======
-[Towards the optimal construction of a loss function without spurious local minima for solving quadratic equations](https://arxiv.org/abs/1809.10520)
- 
-   <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 Talks
@@ -51,8 +53,10 @@ Talks
   
 Teaching Assistant
 ====== 
+* MAth 1012 Calculus IA (grader)
 * Math 1013 Calculus IB
 * Math 2121 Linear Algebra
+* Math 2511 Fundamentals of Actuarial Mathematics (grader)
 * Math 3322 Matrix Computation
 * Math 3332 Data Analytic Tools
 * Math 5007 Optimization and Matrix Computation
@@ -62,10 +66,17 @@ Teaching Assistant
   
 Awards and Honors
 ======
-* 2010-2011 National Scholarship, Sichuan University
-* 2012-2013 National Scholarship, Sichuan University
-* 2013-2014 National Scholarship, Sichuan University
-* 2015-2019 Hong Kong PhD Fellowship, Research Grants Council (RGC) of Hong Kong.
-* 2015-2016 Din-Yu Hsieh "Best Teaching Assistant" Teaching Award
-* 2016-2017 Din-Yu Hsieh "Best Teaching Assistant" Teaching Award
-* 2017-2018 Din-Yu Hsieh "Best Teaching Assistant" Teaching Award
+*  *Hong Kong PhD Fellowship*, 2015-2019, Research Grants Council (RGC) of Hong Kong.
+*  *Din-Yu Hsieh "Best Teaching Assistant" Award*, 2018.05, Hong Kong University of Science and Technology.
+*  *Din-Yu Hsieh "Best Teaching Assistant" Award*, 2017.05, Hong Kong University of Science and Technology.
+*  *Din-Yu Hsieh "Best Teaching Assistant" Award*, 2016.05, Hong Kong University of Science and Technology.
+*  *Meritorious Winner*, Mathematical Contest In Modeling,2014.12
+*  *National Scholarship*, Sichuan University, 2014.10, Ministry of Education of China.
+*  *National Scholarship*, Sichuan University, 2013.10, Ministry of Education of China.
+*  *National Scholarship*, Sichuan University, 2011.10, Ministry of Education of China.
+*  *premier Student Scholarship*, Sichuan University, 2011 - 2015
+
+
+
+
+
