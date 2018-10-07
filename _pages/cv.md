@@ -61,7 +61,7 @@ Publications
 
 Teaching Assistant
 ====== 
-* MAth 1012 Calculus IA
+* MAth 1012 Calculus IA 
 * Math 1013 Calculus IB
 * Math 2121 Linear Algebra
 * Math 3322 Matrix Computation
