@@ -49,11 +49,11 @@ Publications
   
 Talks
 ======
-
+```
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+```
 Teaching Assistant
 ====== 
 * MAth 1012 Calculus IA
@@ -62,10 +62,6 @@ Teaching Assistant
 * Math 3322 Matrix Computation
 * Math 3332 Data Analytic Tools
 * Math 5007 Optimization and Matrix Computation (Graduate Level)
-
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Awards and Honors
 ======
