@@ -58,7 +58,8 @@ Teaching Assistant
 * Math 2121 Linear Algebra
 * Math 3322 Matrix Computation
 * Math 3332 Data Analytic Tools
-* Math 5007 Optimization and Matrix Computation
+* Math 5007 Optimization and Matrix Computation (Graduate Level)
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
