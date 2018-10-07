@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Let us rush to the seasides to collect twinkling shells!"
 author_profile: true
 redirect_from: 
   - /md/
