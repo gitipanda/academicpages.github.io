@@ -53,10 +53,9 @@ Talks
   
 Teaching Assistant
 ====== 
-* MAth 1012 Calculus IA (grader)
+* MAth 1012 Calculus IA
 * Math 1013 Calculus IB
 * Math 2121 Linear Algebra
-* Math 2511 Fundamentals of Actuarial Mathematics (grader)
 * Math 3322 Matrix Computation
 * Math 3332 Data Analytic Tools
 * Math 5007 Optimization and Matrix Computation
@@ -70,10 +69,11 @@ Awards and Honors
 *  *Din-Yu Hsieh "Best Teaching Assistant" Award*, 2018.05, Hong Kong University of Science and Technology.
 *  *Din-Yu Hsieh "Best Teaching Assistant" Award*, 2017.05, Hong Kong University of Science and Technology.
 *  *Din-Yu Hsieh "Best Teaching Assistant" Award*, 2016.05, Hong Kong University of Science and Technology.
-*  *Meritorious Winner*, Mathematical Contest In Modeling,2014.12
-*  *National Scholarship*, Sichuan University, 2014.10, Ministry of Education of China.
-*  *National Scholarship*, Sichuan University, 2013.10, Ministry of Education of China.
-*  *National Scholarship*, Sichuan University, 2011.10, Ministry of Education of China.
+*  *Meritorious Winner in Mathematical Contest In Modeling*,2014.12, COMAP.
+*  *National Scholarship*, Sichuan University, 2014.10, Ministry of Education of P.R.China.
+*  *National Scholarship*, Sichuan University, 2013.10, Ministry of Education of P.R.China.
+*  *First Prize in China Undergraduate Mathematical Contest in Modeling*, Sichuan Division. 2012
+*  *National Scholarship*, Sichuan University, 2011.10, Ministry of Education of P.R.China.
 *  *premier Student Scholarship*, Sichuan University, 2011 - 2015
 
 
