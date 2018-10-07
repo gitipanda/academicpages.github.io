@@ -17,26 +17,27 @@ Education
 
 Work experience
 ======
-* Summer 2014: Modeling Researcher
-  * [HUAXI Futures Company](http://www.hxqh168.com/index.shtml)
-  * Duties included: Quatitative trading strategy development
 
-* Fall 2015: Visiting  [Beijing Internantional Center for Mathematical Research](http://bicmr.pku.edu.cn/)
-  * Intensive courses in mathematics: Functional Analysis2, PDE, Remmanian Geometry
+* June 2017: Phase Retrieval: Theory, Application and Algorithms 
+  * ICERM, Brown University
 
-* July 2016: European Summer Schoool in Modelling, Analysis and Simulation: Crime and Image Processing
-  * Oxford University
-  * Do MRI reconstruction with prior information.
-  
+* 2017: Wechat Laboratory
+  * Project work: We collaborated with Wechat lab, help them solve real-time video denoising problem. In the project, we are using a data driven dictionary learning method to do the denoising task.
+
 * August 2016: Predictive Policing Workshop
   * ICERM, Brown University
   * With over 2000,000 tweets data, we do community detection to seek people's behaviour before and after a Detroit violence.
   
-* 2017: Wechat Laboratory
-  * Project work: We collaborated with Wechat lab, help them solve real-time video denoising problem. In the project, we are using a data driven dictionary learning method to do the denoising task.
-  
-* June 2017: Phase Retrieval: Theory, Application and Algorithms 
-  * ICERM, Brown University
+* July 2016: European Summer Schoool in Modelling, Analysis and Simulation: Crime and Image Processing
+  * Oxford University
+  * Do MRI reconstruction with prior information.
+
+* Fall 2015: Visiting  [Beijing Internantional Center for Mathematical Research](http://bicmr.pku.edu.cn/)
+  * Intensive courses in mathematics: Functional Analysis2, PDE, Remmanian Geometry
+
+* Summer 2014: Modeling Researcher
+  * [HUAXI Futures Company](http://www.hxqh168.com/index.shtml)
+  * Duties included: Quatitative trading strategy development
 
   
 Skills
@@ -48,6 +49,7 @@ Skills
   * Optimization
   * Probability
   * Linear Algebra
+  * Harmonic Analysis
 
 Publications
 ====== 
@@ -56,13 +58,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-```
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-```
 Teaching Assistant
 ====== 
 * MAth 1012 Calculus IA
