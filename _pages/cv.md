@@ -39,7 +39,6 @@ Work experience
   * [HUAXI Futures Company](http://www.hxqh168.com/index.shtml)
   * Duties included: Quatitative trading strategy development
 
-  
 Skills
 ======
 * MATLBA
