@@ -1,10 +1,40 @@
 ---
-title: " MCM2014: "
+title: "MCM2-14"
 collection: publications
-permalink: /publication/SPR
-excerpt: 'This is MCM 2014 solution paper, won "Materious Award"'
-date: 2014-01-01
-venue: 'Jounal unknown'
----
+permalink: /publications/MCM2014
+excerpt: ''
+date: 2018-9-28
+venue: 'ArXiv, submitted to SIAM Journal on Data Science, 2018'
+citation: 'Zhenzhen Li, Gaolei Li, Long Zhou.'
+---  
 
-[Draft](http://academicpages.github.io/files/MCM2014.pdf)
+[[ArXiv]](https://arxiv.org/abs/1809.10520)  [Code]
+
+## Abstract
+Keep-Right-Except-To-Pass rule is accepted by most countries.Firstly, we build differrrent models to evaluate the performance of the rule.
+In macroscopic aspect,we build the probabilistic model of demand for overtaking
+after fitting time headway distribution,proving that it is unable to give consideration to
+both traffic flow and safety.Therefore,we create a comprehensive evaluation function
+to reflect the performance of the rule.It indicates that in the case of light traffic, with
+traffic volume increases, the traffic condition becomes better;However,in the case of
+heavy traffic, the conclusion is that with traffic volume increases, the traffic condition
+becomes worse.
+As to be microcosmic, we established a single overtaking model based on its physical
+process. It defines that the Minimum/Maximum Road Capacity is the minimum/maximum allowed number of overtaking occurs simultaneously. Safety increases with the
+Maximum Road Capacity and traffic volume enlarges with the Minimum Road Capacity.
+The conclusion was drawn from the model test of real situation of freeway. The traffic
+volume increases as the maximum speed limit decreases, while the safety stays stable;
+Safety gets worsened when the minimum speed limit was increased, while the traffic
+volume stays almost still.
+We create a new overtaking rule. Taking highways with three lanes for instance, the
+limitation of the speed should increase from the right to the left lanes. Overtaking is
+prohibited on the lane with highest speed. As for cars on other two lanes, if they want
+to pass another vehicle, they should move to the adjacent left lane. We conduct the
+cellular automaton to simulate the cases under the new rule,keep-right-except-to-pass
+rule and without no rule. We conclude that the new rule we suggest generally perform
+better than keep-right-except-to-pass rule. As for left-driving countries, we can simply
+change the orientation in the single overtaking model.
+we design an intelligent transport system based on road network and intelligent vehicles. In addition, it is highlighted that our design take the drivers' satisfaction into
+consideration to make it a humanization system. Furthermore, we implement computer simulation and comprehensive evaluation on this system.
+## Link
+[Full Paper](...)
