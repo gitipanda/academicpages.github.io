@@ -17,8 +17,10 @@ Education
 * M.S. in Applied Mathematics, [Sichuan University](http://en.scu.edu.cn/), 2012-2015
 * Ph.D in Applied Mathematics, [Hong Kong University of Science and Technology](https://www.ust.hk/), 2015-Now 
 
-Work experience
+Experience
 ======
+* Jan 2019 - Now: Visiting Research Student
+  * Computational + Mathematical Science ,Caltech
 
 * June 2017: Phase Retrieval: Theory, Application and Algorithms 
   * ICERM, Brown University
