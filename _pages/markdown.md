@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 ## Advanced probability
-[link](cvv.md)
+[link](AdvProb.md)
 
 ## Phase Retrieval Problem
 
