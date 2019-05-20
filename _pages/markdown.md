@@ -7,6 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 ## Advanced probability
+[link]
+
 ## Phase Retrieval Problem
 
 * Classical Methods
