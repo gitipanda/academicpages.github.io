@@ -13,9 +13,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Medicine, [Sichuan Medical University](http://wcums.scu.edu.cn/index/wzsy.htm), 2010-2012
+* Visiting Research Student, [Computational + Mathematical Science](http://cms.caltech.edu), Caltech, Jan 2019 - Jan 2020. Host: [Tom Hou](http://users.cms.caltech.edu/~hou/)
+* Ph.D in Applied Mathematics, [Hong Kong University of Science and Technology](http://www.math.ust.hk/), 2015-Now. Advisor: [Cai Jianfeng](https://www.math.ust.hk/~jfcai/)
 * M.S. in Applied Mathematics, [Sichuan University](http://en.scu.edu.cn/), 2012-2015
-* Ph.D in Applied Mathematics, [Hong Kong University of Science and Technology](https://www.ust.hk/), 2015-Now 
+* B.S. in Medicine, [Sichuan Medical University](http://wcums.scu.edu.cn/index/wzsy.htm), 2010-2012
+
+
 
 Experience
 ======
