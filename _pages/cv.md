@@ -54,13 +54,6 @@ Skills
   * Linear Algebra
   * Harmonic Analysis
 
-Publications
-====== 
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Teaching Assistant
 ====== 
 * MAth 1012 Calculus IA 
@@ -84,6 +77,13 @@ Awards and Honors
 *  *First Prize in China Undergraduate Mathematical Contest in Modeling*, Sichuan Division. 2012
 *  *National Scholarship*, Sichuan University, 2011.10, Ministry of Education of P.R.China: 8000RMB.
 *  *premier Student Scholarship*, Sichuan University, 2011 - 2015
+
+Publications
+====== 
+
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 
 Talks
