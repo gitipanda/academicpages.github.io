@@ -6,8 +6,8 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-## Advanced probability
-[link](AdvProb.md)
+## [Advanced probability](AdvProb.md)
+[Concentration Inequalities]
 
 ## Phase Retrieval Problem
 
