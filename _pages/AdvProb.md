@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "AdvProb"
+title: "Advanced Probability"
 permalink: /AdvProb/
 author_profile: true
 redirect_from:
