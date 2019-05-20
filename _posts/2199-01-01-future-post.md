@@ -1,5 +1,5 @@
 ---
-title: 'It's coming'
+title: 'It's coming' date:
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
