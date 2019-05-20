@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+<! concentration inequality-->
+<font size="3"><font color="#0000dd">Concentration Inequalities</font><br /></font><br />
 
-<font size="5"><font color="#0000dd">Concentration Inequalities</font><br /></font><br />
-======
-* 浅红色文字：<font color="#dd0000">浅红色文字：</font><br /> 
-  浅蓝色文字：<font color="#0000dd">浅蓝色文字</font><br /> 
+<! 浅红色文字：<font color="#dd0000">浅红色文字：</font><br /> 
+  浅蓝色文字：<font color="#0000dd">浅蓝色文字</font><br />
 
-size为2：<font size="2">size为2</font><br /> 
+size为2：<font size="2">size为2</font><br />  -->
