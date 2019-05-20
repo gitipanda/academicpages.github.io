@@ -1,9 +1,7 @@
 # main links links
 main:
-#  - title: "Blog" # what's new
-#    url: /year-archive/
 
-  - title: "Research" #original: Guide
+  - title: "Research" 
     url: /markdown/
 
 
