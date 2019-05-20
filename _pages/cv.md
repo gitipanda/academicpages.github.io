@@ -72,15 +72,17 @@ Teaching Assistant
   
 Awards and Honors
 ======
-*  *Hong Kong PhD Fellowship*, 2015-2019, Research Grants Council (RGC) of Hong Kong.
+*  *Research Travelling Grants*, 2019, Hong Kong University of Science and Technology, 13500HKD.
+*  *Oversea Research Award*, 2019, Hong Kong University of Science and Technology: 45600HKD.
+*  *Hong Kong PhD Fellowship*, 2015-2019, Research Grants Council (RGC) of Hong Kong: 1,021,200HKD.
 *  *Din-Yu Hsieh "Best Teaching Assistant" Award*, 2018.05, Hong Kong University of Science and Technology.
 *  *Din-Yu Hsieh "Best Teaching Assistant" Award*, 2017.05, Hong Kong University of Science and Technology.
 *  *Din-Yu Hsieh "Best Teaching Assistant" Award*, 2016.05, Hong Kong University of Science and Technology.
 *  *Meritorious Winner in Mathematical Contest In Modeling*,2014.12, COMAP.
-*  *National Scholarship*, Sichuan University, 2014.10, Ministry of Education of P.R.China.
-*  *National Scholarship*, Sichuan University, 2013.10, Ministry of Education of P.R.China.
+*  *National Scholarship*, Sichuan University, 2014.10, Ministry of Education of P.R.China: 8000RMB.
+*  *National Scholarship*, Sichuan University, 2013.10, Ministry of Education of P.R.China: 8000RMB.
 *  *First Prize in China Undergraduate Mathematical Contest in Modeling*, Sichuan Division. 2012
-*  *National Scholarship*, Sichuan University, 2011.10, Ministry of Education of P.R.China.
+*  *National Scholarship*, Sichuan University, 2011.10, Ministry of Education of P.R.China: 8000RMB.
 *  *premier Student Scholarship*, Sichuan University, 2011 - 2015
 
 
