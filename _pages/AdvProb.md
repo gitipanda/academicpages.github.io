@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Concentration Inequalities
+<font color="#0000dd">Concentration Inequalities</font><br /> 
 ======
 * 
 
