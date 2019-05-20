@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Posts but in Publication"
-permalink: /publications/
+title: "My Posts"
+permalink: /posts/
 author_profile: true
 ---
 
