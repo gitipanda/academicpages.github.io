@@ -22,9 +22,6 @@ Education
 
 Experience
 ======
-* Jan 2019 - Now: Visiting Research Student
-  * Computational + Mathematical Science ,Caltech
-
 * June 2017: Phase Retrieval: Theory, Application and Algorithms 
   * ICERM, Brown University
 
