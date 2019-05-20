@@ -7,7 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 ## [Advanced probability](AdvProb.md)
-[Concentration Inequalities]
 
 ## Phase Retrieval Problem
 
