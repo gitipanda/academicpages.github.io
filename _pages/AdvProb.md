@@ -14,8 +14,7 @@ In compressed sensing and high dimensional data science, isometric embedding pla
 
 please also check Terrence Tao's notes in https://terrytao.wordpress.com/tag/bai-yin-theorem/
 
-Covering Nets technique: to get uniformly bound (usually operator bound or uniformly for $S^{n-1}$), one can use $\epsilon$-Net to help establish such. More precisely, the uniform bound for all $S^{n-1}$ can be in the same order of bounds for $\epsilon$-Net. So in each point in the epsilon Net, we have a bound and a fail probability, we can have the uniform bound for all points in the $\epsilon$-Net and union fail probability(fail probability for each point times $\epsilon$-Net size).  
-
+Covering Nets technique: to get uniformly bound (usually operator bound or uniformly for $S^{n-1}$), one can use $\epsilon$-Net to help establish such. More precisely, the uniform bound for all $S^{n-1}$ can be in the same order of bounds for $\epsilon$-Net. So in each point in the epsilon Net, we have a bound and a fail probability, we can have the uniform bound for all points in the $\epsilon$-Net and union fail probability(fail probability for each point times $\epsilon$-Net size). Once we have the union fail probability and due to uniform bound for $\epsilon$-Net, we can state under such fail probability, the uniform bounds for $S^{n-1}$ can be estimated.
 
 
 <!-- 浅红色文字：<font color="#dd0000">浅红色文字：</font><br /> 
