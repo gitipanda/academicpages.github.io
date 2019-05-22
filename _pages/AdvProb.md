@@ -18,6 +18,19 @@ please also check [Terrence Tao's notes](https://terrytao.wordpress.com/tag/bai-
 Covering Nets technique: to get uniformly bound (usually operator bound or uniformly for $S^{n-1}$), one can use $\epsilon$-Net to help establish such. More precisely, the uniform bound for all $S^{n-1}$ can be in the same order of bounds for $\epsilon$-Net. So in each point in the epsilon Net, we have a bound and a fail probability, we can have the uniform bound for all points in the $\epsilon$-Net and union fail probability(fail probability for each point times $\epsilon$-Net size). Once we have the union fail probability and due to uniform bound for $\epsilon$-Net, we can state under such fail probability, the uniform bounds for $S^{n-1}$ can be estimated.
 
 <font size="3"><font color="#0000dd">Sub-gaussian</font><br /></font><br />
+Properties:
+Tail:
+Moments:
+Square-exponential Moments:
+Moment Generating Function:
+
+[Definition] (sub-gaussian)
+Tail:
+Moments:
+Square-exponential Moments:
+Moment Generating Function:
+and their equivalence:
+sub-gaussian norm:
 <!-- 浅红色文字：<font color="#dd0000">浅红色文字：</font><br /> 
   浅蓝色文字：<font color="#0000dd">浅蓝色文字</font><br />
 size为2：<font size="2">size为2</font><br />  -->
