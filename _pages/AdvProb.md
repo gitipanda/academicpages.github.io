@@ -32,7 +32,7 @@ Moment Generating Function:
 and their equivalence:
 sub-gaussian norm:
 
-Theorem: (Hoeffding-type inequality)
+Theorem: (Hoeffding-type inequality) $\sum_i a_i X_i$ is also sub-gaussian with $\|.\|_{\phi}^2=\sum_i a_i^2 K_i^2$.
 <!-- 浅红色文字：<font color="#dd0000">浅红色文字：</font><br /> 
   浅蓝色文字：<font color="#0000dd">浅蓝色文字</font><br />
 size为2：<font size="2">size为2</font><br />  -->
