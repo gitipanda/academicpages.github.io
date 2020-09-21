@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a CM+Xpostdoc in the CMS Department of California Institute of Technology, working with Prof. Thomas Hou. I obtained my Ph.D. in Hong Kong University of Science and Technology, supervised by Prof. Cai Jian-feng. More details can be found in my [CV](https://gitipanda.github.io/cv/).
+I'm currently a CM+X postdoc in the CMS Department of California Institute of Technology, working with Prof. Thomas Hou. I obtained my Ph.D. in Hong Kong University of Science and Technology, supervised by Prof. Cai Jian-feng. More details can be found in my [CV](https://gitipanda.github.io/cv/).
 
 My research interest lies in efficient and provable algorithms for industrial and mathematical problems, landscape and geometric analysis of non-convex problems, deep learning theory, with theoretical guarantee that may based on optimization, probability and random matrix tools. 
 
@@ -18,6 +18,7 @@ Email: zhenzhen@caltech.edu
 
 Address: Department of Computing and Mathematical Sciences, California Institute of Technology, 1200 E. California Blvd, Pasadena, California, US.
 
+[//]: <> (This is also a comment.
 What' new
 ======
 
@@ -36,4 +37,5 @@ What' new
 1. Workshop on [Geometry of Big Data](http://www.ipam.ucla.edu/programs/workshops/workshop-iii-geometry-of-big-data/?tab=overview), April 29- May3, 2019.
 1. SIAM conference on [Data Mining](https://www.siam.org/conferences/CM/Main/sdm19), May 2-4, 2019, Alberta, Canada. 
 1. Workshop on [Deep Geometric Learning of Big Data and Applications](http://www.ipam.ucla.edu/programs/workshops/workshop-iv-deep-geometric-learning-of-big-data-and-applications/), May 20-24, 2019.
+)
 
