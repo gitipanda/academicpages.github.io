@@ -81,9 +81,9 @@ analytics:
 author:
   name             : #"Li Zhenzhen"
   avatar           : "profile.png"
-  bio              : "Postdoc - [CMX.Caltech](http://cmx.caltech.edu/)"
+  bio              : "CM+X Postdoc"
   location         : "Pasadena, California"
-  employer         :
+  employer         : http://cmx.caltech.edu/
   googlescholar    : # I don't have yet"http://yourfullgooglescholarurl.com"
   email            :
   uri              :
