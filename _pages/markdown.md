@@ -1,3 +1,4 @@
+<!--这些是注释文本，不会显示
 ---
 permalink: /markdown/
 title: "Let us rush to the seasides to collect twinkling shells!"
@@ -7,9 +8,7 @@ redirect_from:
   - /markdown.html
 ---
 ## [Advanced probability](AdvProb.md)
-
 ## Phase Retrieval Problem
-
 * Classical Methods
 * Convex Methods
 * Non-convex Methods
@@ -18,22 +17,15 @@ redirect_from:
 ## Matrix Completion
 * Practical Recommendation System
 * Provable Methods
-
 ## Non-convex Global Analysis
 * History
 * Interests
-
 ## Sparse PCA
-
 ## Blind Deconvolution
-
 ## Dictionary Learning
-
 ## Deep Learning Theory
-
 ## Tensor Computation
-
 ## Artificial Intelligence 
 * Bridge Practicals with mathematical Problem 
-
+-->
 
