@@ -16,7 +16,7 @@ Contact
 =====
 Email: zhenzhen@caltech.edu
 
-Office: 
+Address: Department of Computing and Mathematical Sciences, California Institute of Technology, 1200 E. California Blvd, Pasadena, California, US.
 
 What' new
 ======
