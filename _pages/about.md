@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alina (李珍珍)"
+title: "李珍珍"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a CM+X postdoc in the Computational and Mathematical Science Department of California Institute of Technology, working with Prof. Thomas Hou. I obtained my Ph.D. in Hong Kong University of Science and Technology, supervised by Prof. Cai Jian-feng. More details can be found in my [CV](https://gitipanda.github.io/cv/).
+I'm currently a CMX postdoc in the Computational and Mathematical Science Department of California Institute of Technology, working with Prof. Thomas Hou. I obtained my Ph.D. in Hong Kong University of Science and Technology, supervised by Prof. Cai Jian-feng. More details can be found in my [CV](https://gitipanda.github.io/cv/).
 
 My research interest lies in efficient and provable algorithms for industrial and mathematical problems, landscape and geometric analysis of non-convex problems, deep learning theory, with theoretical guarantee that may based on optimization, probability and random matrix tools. 
 
