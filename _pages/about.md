@@ -13,7 +13,7 @@ I'm currently a CMX postdoc in the Computational and Mathematical Science Depart
 I'm broadly interested in machine learning problems. My research interest lies in efficient and provable algorithms for industrial and mathematical problems, low-rank and sparse structured matrix related problems, non-convex optimization, manifold optimization, feature learning, etc.
 
 Contact
-=====
+======
 Email: zhenzhen@caltech.edu
 
 Address: Department of Computing and Mathematical Sciences, California Institute of Technology, 1200 E. California Blvd, Pasadena, California, US.
