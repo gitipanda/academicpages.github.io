@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a CMX postdoc in the Computational and Mathematical Science Department of California Institute of Technology, working with Prof. Thomas Yizhao Hou. I obtained my Ph.D. in Hong Kong University of Science and Technology, supervised by Prof. ‪Jian-Feng Cai‬. More details can be found in my [CV](https://gitipanda.github.io/cv/).
+I'm currently a CMX postdoc in the Computational and Mathematical Science Department of California Institute of Technology, working with Prof. Thomas Yizhao Hou. I obtained my Ph.D. degree from Hong Kong University of Science and Technology, working with Prof. ‪Jian-Feng Cai‬. More details can be found in my [CV](https://gitipanda.github.io/cv/).
 
 My research interest lies in efficient and provable algorithms for industrial and mathematical problems, landscape and geometric analysis of non-convex problems, deep learning theory, with theoretical guarantee that may based on optimization, probability and random matrix tools. 
 
