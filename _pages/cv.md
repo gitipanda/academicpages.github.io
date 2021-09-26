@@ -36,12 +36,6 @@ redirect_from:
 * Apr 2017 - Dec 2017: Wechat Laboratory
   * Project: We collaborated with Wechat lab, help them solve real-time video denoising problem. In the project, we are using wavelet tools to establish noise level detection and a data driven dictionary learning method to do the denoising task. This work is based in Hong Kong, China.
 
-* Aug 2016: Predictive Policing Workshop
-  * Project: With over 2000,000 tweets data, we do community detection to seek people's behaviour before and after a Detroit violence. ICERM, Brown University, US.
-  
-* Jul 2016: European Summer Schoool in Modelling, Analysis and Simulation: Crime and Image Processing
-  * Project: Do MRI reconstruction with prior information. Oxford University, UK.
- 
 * Fall 2015: Visiting  [Beijing Internantional Center for Mathematical Research](http://bicmr.pku.edu.cn/)
   * Intensive courses in mathematics: Functional Analysis2, PDE, Remmanian Geometry.
 
