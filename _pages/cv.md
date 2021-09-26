@@ -41,7 +41,7 @@ redirect_from:
 
 * Summer 2014: Modeling Researcher
   * [HUAXI Futures Company](http://www.hxqh168.com/index.shtml)
-  * Project: Develop quantitative trading strategy. 
+  * Project: Develop quantitative trading strategy. My strategy is used practically in their real trading models.
 
 <span style="font-size:18pt;">**Skills**</span>
 * MATLAB
