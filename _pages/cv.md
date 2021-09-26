@@ -33,14 +33,14 @@ redirect_from:
 * June 2017: Phase Retrieval: Theory, Application and Algorithms 
   * ICERM, Brown University, US
 
-* 2017: Wechat Laboratory
+* Apr 2017 - Dec 2017: Wechat Laboratory
   * Project work: We collaborated with Wechat lab, help them solve real-time video denoising problem. In the project, we are using a data driven dictionary learning method to do the denoising task. Hong Kong, China
 
-* August 2016: Predictive Policing Workshop
+* Aug 2016: Predictive Policing Workshop
   * ICERM, Brown University, US
   * With over 2000,000 tweets data, we do community detection to seek people's behaviour before and after a Detroit violence.
   
-* July 2016: European Summer Schoool in Modelling, Analysis and Simulation: Crime and Image Processing
+* Jul 2016: European Summer Schoool in Modelling, Analysis and Simulation: Crime and Image Processing
   * Oxford University
   * Do MRI reconstruction with prior information.
 
