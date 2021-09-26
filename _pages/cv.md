@@ -12,7 +12,7 @@ redirect_from:
 
 
 <span style="font-size:18pt;">**Education**</span>
-* Postdoctoral researcher, [Computational + Mathematical Science](http://cms.caltech.edu), Caltech, Jun 2020 - now. Host: [Thomas Yizhao Hou](http://users.cms.caltech.edu/~hou/)
+* Postdoctoral researcher, [Computational + Mathematical Science](http://cms.caltech.edu), Caltech, Jun 2020 - now. Mentor: [Thomas Yizhao Hou](http://users.cms.caltech.edu/~hou/)
 * Visiting Research Student, [Computational + Mathematical Science](http://cms.caltech.edu), Caltech, Jan 2019 - Jan 2020. Host: [Thomas Yizhao Hou](http://users.cms.caltech.edu/~hou/)
 * Ph.D in Applied Mathematics, [Hong Kong University of Science and Technology](http://www.math.ust.hk/), 2015-2020. Advisor: [‪Jian-Feng Cai‬](https://www.math.ust.hk/~jfcai/)
 * M.S. in Applied Mathematics, [Sichuan University](http://en.scu.edu.cn/), 2012-2015
@@ -22,19 +22,22 @@ redirect_from:
 
 <span style="font-size:18pt;">**Experience**</span>
 * Mar 2021: MS71 Computational Linear Algebra in Data Analysis
-  * SIAM Conference on Computational Science and Engineering
+  * SIAM Conference on Computational Science and Engineering, Zoom
   
 * Dec 2019: CMX seminar
-  * CMS, California Institute of Technology
+  * CMS, California Institute of Technology, Pasadena, US
+
+* Jul 2019: Oral presentation
+  * International Congress on Industrial and Applied Mathematics, Universitat de València, Spain  
   
 * June 2017: Phase Retrieval: Theory, Application and Algorithms 
-  * ICERM, Brown University
+  * ICERM, Brown University, US
 
 * 2017: Wechat Laboratory
-  * Project work: We collaborated with Wechat lab, help them solve real-time video denoising problem. In the project, we are using a data driven dictionary learning method to do the denoising task.
+  * Project work: We collaborated with Wechat lab, help them solve real-time video denoising problem. In the project, we are using a data driven dictionary learning method to do the denoising task. Hong Kong, China
 
 * August 2016: Predictive Policing Workshop
-  * ICERM, Brown University
+  * ICERM, Brown University, US
   * With over 2000,000 tweets data, we do community detection to seek people's behaviour before and after a Detroit violence.
   
 * July 2016: European Summer Schoool in Modelling, Analysis and Simulation: Crime and Image Processing
