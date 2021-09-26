@@ -12,7 +12,7 @@ redirect_from:
 
 
 <span style="font-size:18pt;">**Education**</span>
-* Postdoctoral researcher, [Computational + Mathematical Science](http://cms.caltech.edu), Caltech, Jun 2021 - now. Host: [Thomas Yizhao Hou](http://users.cms.caltech.edu/~hou/)
+* Postdoctoral researcher, [Computational + Mathematical Science](http://cms.caltech.edu), Caltech, Jun 2020 - now. Host: [Thomas Yizhao Hou](http://users.cms.caltech.edu/~hou/)
 * Visiting Research Student, [Computational + Mathematical Science](http://cms.caltech.edu), Caltech, Jan 2019 - Jan 2020. Host: [Thomas Yizhao Hou](http://users.cms.caltech.edu/~hou/)
 * Ph.D in Applied Mathematics, [Hong Kong University of Science and Technology](http://www.math.ust.hk/), 2015-2020. Advisor: [‪Jian-Feng Cai‬](https://www.math.ust.hk/~jfcai/)
 * M.S. in Applied Mathematics, [Sichuan University](http://en.scu.edu.cn/), 2012-2015
