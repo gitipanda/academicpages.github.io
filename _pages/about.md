@@ -16,6 +16,7 @@ I'm broadly interested in machine learning problems. My research interest lies i
 
 
 <span style="font-size:18pt;">**Contact**</span>
+
 Email: zhenzhen@caltech.edu
 
 Address: Department of Computing and Mathematical Sciences, California Institute of Technology, 1200 E. California Blvd, Pasadena, California, US.
