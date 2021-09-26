@@ -11,8 +11,7 @@ redirect_from:
 
 
 
-Education
-========
+<span style="font-size:18pt;">**Education**</span>
 * Postdoctoral researcher, [Computational + Mathematical Science](http://cms.caltech.edu), Caltech, Jun 2021 - now. Host: [Thomas Yizhao Hou](http://users.cms.caltech.edu/~hou/)
 * Visiting Research Student, [Computational + Mathematical Science](http://cms.caltech.edu), Caltech, Jan 2019 - Jan 2020. Host: [Thomas Yizhao Hou](http://users.cms.caltech.edu/~hou/)
 * Ph.D in Applied Mathematics, [Hong Kong University of Science and Technology](http://www.math.ust.hk/), 2015-2020. Advisor: [‪Jian-Feng Cai‬](https://www.math.ust.hk/~jfcai/)
@@ -21,8 +20,7 @@ Education
 
 
 
-Experience
-======
+<span style="font-size:18pt;">**Experience**</span>
 * June 2017: Phase Retrieval: Theory, Application and Algorithms 
   * ICERM, Brown University
 
@@ -44,9 +42,8 @@ Experience
   * [HUAXI Futures Company](http://www.hxqh168.com/index.shtml)
   * Duties included: Quatitative trading strategy development
 
-Skills
-======
-* MATLBA
+<span style="font-size:18pt;">**Skills**</span>
+* MATLAB
 * C++
 * Python
 * Math Tools
@@ -55,8 +52,7 @@ Skills
   * Linear Algebra
   * Harmonic Analysis
 
-Teaching Assistant
-====== 
+<span style="font-size:18pt;">**Teaching (Tutorials)**</span>
 * MAth 1012 Calculus IA 
 * Math 1013 Calculus IB
 * Math 2121 Linear Algebra
@@ -64,8 +60,7 @@ Teaching Assistant
 * Math 3332 Data Analytic Tools
 * Math 5007 Optimization and Matrix Computation (Graduate Level)
   
-Awards and Honors
-======
+<span style="font-size:18pt;">**Honors**</span>
 *  *Research Travelling Grants*, 2019, Hong Kong University of Science and Technology, 13500HKD.
 *  *Oversea Research Award*, 2019, Hong Kong University of Science and Technology: 45600HKD.
 *  *Hong Kong PhD Fellowship*, 2015-2019, Research Grants Council (RGC) of Hong Kong: 1,021,200HKD.
