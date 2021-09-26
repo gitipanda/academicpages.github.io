@@ -21,6 +21,12 @@ redirect_from:
 
 
 <span style="font-size:18pt;">**Experience**</span>
+* Mar 2021: MS71 Computational Linear Algebra in Data Analysis
+  * SIAM Conference on Computational Science and Engineering
+  
+* Dec 2019: CMX seminar
+  * CMS, California Institute of Technology
+  
 * June 2017: Phase Retrieval: Theory, Application and Algorithms 
   * ICERM, Brown University
 
@@ -74,16 +80,5 @@ redirect_from:
 *  *National Scholarship*, Sichuan University, 2011.10, Ministry of Education of P.R.China: 8000RMB.
 *  *premier Student Scholarship*, Sichuan University, 2011 - 2015
 
-Publications
-====== 
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
-Talks
-======
-*  [ICIAM 2019, SPAIN: International Congress on Industrial and Applied Mathematics](https://iciam2019.org/).
 
 
