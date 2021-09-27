@@ -38,6 +38,6 @@ dkdkkdkdajdaaaafnslsdlndflsdddddd
 
 <p float="left">
   <img src="https://github.com/gitipanda/gitipanda.github.io/blob/master/images/es1.png" width="100" />
-  <img src="es2.png" width="100" /> 
+  <img src="https://github.com/gitipanda/gitipanda.github.io/blob/master/images/es2.png" width="100" /> 
 </p>
 
