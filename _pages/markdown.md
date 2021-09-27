@@ -35,14 +35,16 @@ redirect_from:
 
 
 <p float="left">
-  <img src="/images/rPCA.png" align="left" width="300" style="margin-right: 1em"/>
+  <img src="/images/rPCA.png" align="left" width="300" style="margin-right: 2em"/>
 </p> 
-*Robust low-rank matrix recovery by Riemannian subgradient method.* In this project, we explore theoretical guarantee for Riemannian subgradient descent method in solving the robust PCA problem. The numerical experiments show that our method is 20% faster than prior methods such as:  AccAltProj, AltProj and GD based method.
+*Robust low-rank matrix recovery by Riemannian subgradient method.* 
+In this project, we explore theoretical guarantee for Riemannian subgradient descent method in solving the robust PCA problem. The numerical experiments show that our method is 20% faster than prior methods such as:  AccAltProj, AltProj and GD based method.
 
 
 <p float="left">
   <img src="/images/es1.png" align="left" width="200" style="margin-right: 1em"/>
   <img src="/images/es2.png" align="left" width="200" style="margin-right: 2em"/> 
 </p>
-*Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization.* In this project, we explore how Riemannian gradient descent method will escape strict saddle sets asymptotically, and converge to local minimizers and shows examples in phase retrieval and variational eigen problems.
+*Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization.* 
+In this project, we explore how Riemannian gradient descent method will escape strict saddle sets asymptotically, and converge to local minimizers and shows examples in phase retrieval and variational eigen problems.
 
