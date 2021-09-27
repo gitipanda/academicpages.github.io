@@ -55,7 +55,7 @@ redirect_from:
   * Harmonic Analysis
 
 <span style="font-size:18pt;">**Teaching (Tutorials)**</span>
-* MAth 1012 Calculus IA 
+* Math 1012 Calculus IA 
 * Math 1013 Calculus IB
 * Math 2121 Linear Algebra
 * Math 3322 Matrix Computation
@@ -72,7 +72,7 @@ redirect_from:
 *  Meritorious Winner in Mathematical Contest In Modeling,Dec 2014, COMAP.
 *  National Scholarship (Wu Yuzhang Honors), Sichuan University, Oct 2014, Ministry of Education of P.R.China: 8000 RMB.
 *  National Scholarship (Mathematics), Sichuan University, Oct 2013, Ministry of Education of P.R.China: 8000 RMB.
-*  First Prize in China Undergraduate Mathematical Contest in Modeling*, Sichuan Division, 2012.
+*  First Prize in China Undergraduate Mathematical Contest in Modeling, Sichuan Division, 2012.
 *  National Scholarship (Medicine), Sichuan University, Oct 2011, Ministry of Education of P.R.China: 8000 RMB.
 *  Premier Student Scholarship, Sichuan University, 2011 - 2015.
 
