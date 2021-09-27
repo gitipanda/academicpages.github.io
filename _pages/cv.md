@@ -34,7 +34,7 @@ redirect_from:
   * ICERM, Brown University, US
 
 * Apr 2017 - Dec 2017: Wechat Laboratory
-  * Project: We collaborated with Wechat lab, help them solve real-time video denoising problem. In the project, we are using wavelet tools to establish noise level detection and a data driven dictionary learning method to do the denoising task. This work is based in Hong Kong, China.
+  * Project: We collaborated with the Wechat lab, helped them solve real-time video denoising problems. In the project, we use wavelet tools to establish noise level detection and a data-driven dictionary learning method to do the denoising task. This work is based in Hong Kong, China.
 
 * Fall 2015: Visiting  [Beijing Internantional Center for Mathematical Research](http://bicmr.pku.edu.cn/)
   * Intensive courses in mathematics: Functional Analysis2, PDE, Remmanian Geometry
