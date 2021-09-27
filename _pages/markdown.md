@@ -33,9 +33,16 @@ redirect_from:
 ![](/images/es1.png){: height="100" width="100"} ![](/images/es2.png){: style="float: left"; margin-right: 2em; height="100" width="100"} Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization. In this project, we explore how Riemannian gradient descent method will escape strict saddle sets asymptotically, and converge to local minimizers and shows examples in phase retrieval and variational eigen problems.
 -->
 
+
+<p float="left">
+  <img src="/images/fountain_original.tif" align="left" width="200" style="margin-right: 1em"/>
+  <img src="/images/fountain.tif" align="left" width="200" style="margin-right: 2em"/> 
+</p>
+*Robust low-rank matrix recovery by Riemannian subgradient method.* In this project, we explore theoretical guarantee for Riemannian subgradient descent method in solving the robust PCA. The numerical experiments show that our method is 20% faster than prior methods such as:  AccAltProj, AltProj and GD based method.
+
 <p float="left">
   <img src="/images/es1.png" align="left" width="200" style="margin-right: 1em"/>
   <img src="/images/es2.png" align="left" width="200" style="margin-right: 2em"/> 
 </p>
 *Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization.* In this project, we explore how Riemannian gradient descent method will escape strict saddle sets asymptotically, and converge to local minimizers and shows examples in phase retrieval and variational eigen problems.
-Flag 9
+
