@@ -33,7 +33,7 @@ redirect_from:
 <p float="left">
   <img src="/images/rPCA.png" width="300" align="left" style="margin-right: 8em"/>
 </p> 
-<br/> <span style="color:#3da2ce">*<em>Robust low-rank matrix recovery by Riemannian subgradient method.</em> *</span>
+<br/> <em>Robust low-rank matrix recovery by Riemannian subgradient method.</em> 
 <br/>
 In this project, we explore theoretical guarantee for Riemannian subgradient descent method in solving the robust PCA problem. The numerical experiments show that our method is 20% faster than prior methods such as:  AccAltProj, AltProj and GD based method. The images are examples for video background substraction.
 <br/><br/>
