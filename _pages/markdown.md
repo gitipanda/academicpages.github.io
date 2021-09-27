@@ -12,7 +12,7 @@ redirect_from:
 
 
 <span style="font-size:18pt;">**Publication**</span>
-* Fast Global Convergence in Random Sensing Problems for Low-rank Matrix with Random Initialization. Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, 2021.
+* Fast Global Convergence in Random Sensing Problems for Low-rank Matrix with Random Initialization (working paper). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, 2021.
 
 * Robust low-rank matrix recovery by Riemannian subgradient method (working paper). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, 2021.
 
