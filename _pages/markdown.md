@@ -34,3 +34,8 @@ dkdkkdkdajdaaaafnslsdlndflsdddddd
 
 ![](/images/es1.png) ![](/images/es2.png){: style="float: left"; margin-right: 2em; height="10%" width="10%"}
 
+<p float="left">
+  <img src="/es1.png" width="100" />
+  <img src="/es2.png" width="100" /> 
+</p>
+
