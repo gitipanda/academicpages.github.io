@@ -16,7 +16,7 @@ redirect_from:
 
 * Robust low-rank matrix recovery by Riemannian subgradient method (working paper). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, 2021.
 
-* [<span style="color:blue">*Asymptotic escape of spurious fixed points on the low-rank matrix manifold* text</span>](https://arxiv.org/abs/2107.09207). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, submitted to Communications of the AMS, 2021.
+* [<span style="color:blue">*Asymptotic escape of spurious fixed points on the low-rank matrix manifold*</span>](https://arxiv.org/abs/2107.09207). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, submitted to Communications of the AMS, 2021.
 
 * [Fast Global Convergence for Low-rank Matrix Recovery via Riemannian Gradient Descent with Random Initialization](https://arxiv.org/abs/2012.15467). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, submitted to Foundations of Computational Mathematics (FoCM), 2021.
 
