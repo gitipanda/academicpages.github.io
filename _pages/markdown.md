@@ -35,7 +35,7 @@ redirect_from:
 
 
 <p float="left">
-  <img src="/images/rPCA.png" width="300" align="left" style="margin-right: 8em"/>
+  <img src="/images/rPCA.png" width="300" align="left" style="margin-left: 6em; margin-right: 8em"/>
 </p> 
 <br/> <em>Robust low-rank matrix recovery by Riemannian subgradient method.</em> 
 <br/>
