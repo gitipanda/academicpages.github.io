@@ -27,8 +27,6 @@ redirect_from:
 *  [<span style="color:#3da2ce">*Towards the Optimal Construction of a Loss Function without Spurious Local Minima for Solving Quadratic Equations*</span>](https://ieeexplore.ieee.org/document/8918236). Zhenzhen Li, Jian-feng Cai, Ke Wei, IEEE Transactions on Information Theory, 66(5): 3242--3260, 2020.
 
 <span style="font-size:18pt;">**Projects**</span>
-<br/>
-
 
 <p float="left">
   <img src="/images/rPCA.png" width="300" align="left" style="margin-right: 8em"/>
