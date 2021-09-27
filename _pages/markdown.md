@@ -34,10 +34,6 @@ djkdjdj
 dkdkkdkdajdaaaafnslsdlndflsdddddd
 -->
 
-![](/images/bio-photo.jpg) ![](/images/bio-photo-2.jpg){: style="float: left"; margin-right: 2em; height="10%" width="10%"}
+![](/images/bio-photo.jpg) ![](/images/bio-photo-2.jpg){: style="float: left"; margin-right: 2em; height="10%" width="200px;"}
 
-<p float="left">
-  <img src="images/es1.png" width="100" />
-  <img src="images/es2.png" width="100" /> 
-</p>
 
