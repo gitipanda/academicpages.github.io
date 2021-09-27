@@ -30,9 +30,9 @@ redirect_from:
 
 ![image](/images/profile2.jpg){: style="float: left"; margin-right: 2em; height="10%" width="10%"}
 djkdjdj
-dkdkkdkd
+dkdkkdkdajdaaaafnslsdlndflsdddddd
 
-jjdjdj
+
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
     <img src="profile2.jpg" alt="">
