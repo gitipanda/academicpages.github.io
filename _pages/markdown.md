@@ -25,3 +25,8 @@ redirect_from:
 * Nonconvex Optimization for Low-rank Matrix Related Problems. Zhenzhen Li, Ph.D. Thesis, Hong Kong University of Science and Technology, 2020.
 
 *  [<span style="color:#3da2ce">*Towards the Optimal Construction of a Loss Function without Spurious Local Minima for Solving Quadratic Equations*</span>](https://ieeexplore.ieee.org/document/8918236). Zhenzhen Li, Jian-feng Cai, Ke Wei, IEEE Transactions on Information Theory, 66(5): 3242--3260, 2020.
+
+<span style="font-size:18pt;">**Projects**</span>
+![image](profile2.jpg){: style="float: left"}
+
+Some text.
