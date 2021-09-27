@@ -29,6 +29,32 @@ redirect_from:
 <span style="font-size:18pt;">**Projects**</span>
 <br/>
 
+<TABLE border="0" width="100%">
+  	<col style="width:40%">
+	  <col style="width:60%">
+	<tr>
+		<td><p float="left">
+  <img src="/images/rPCA.png" width="300" align="left" style="margin-right: 8em"/>
+</p> 
+</td>
+		<td><em>Robust low-rank matrix recovery by Riemannian subgradient method.</em> 
+<br/>
+In this project, we explore theoretical guarantee for Riemannian subgradient descent method in solving the robust PCA problem. The numerical experiments show that our method is 20% faster than prior methods such as:  AccAltProj, AltProj and GD based method.</td>
+	</tr>
+	<tr>
+		<th>Oranges</th>
+		<td>295 ui</td>
+	</tr>
+	<tr>
+		<th>Bananas</th>
+		<td>76 ui</td>
+	</tr>
+
+
+</TABLE>
+
+
+
 
 <p float="left">
   <img src="/images/rPCA.png" width="300" align="left" style="margin-right: 8em"/>
@@ -56,7 +82,7 @@ In this project, we explore how Riemannian gradient descent method will escape s
 <br/>
 In this project, we develop noise level detection and establish a real-time videos denoising for Wechat video group. We use wavelet features and data-driven dictionary learning methods. Our package meets the industrial standard that can process a single frame within 1/100s and with satisfied video quality.
 <br/><br/>
-flag 11
+flag 12
 
 <!---
 <p float="left">
