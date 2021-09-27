@@ -16,7 +16,7 @@ redirect_from:
 * Visiting Research Student, [Computational + Mathematical Science](http://cms.caltech.edu), Caltech, Jan 2019 - Jan 2020. Host: [Thomas Yizhao Hou](http://users.cms.caltech.edu/~hou/)
 * Ph.D in Applied Mathematics, [Hong Kong University of Science and Technology](http://www.math.ust.hk/), 2015-2020. Advisor: [‪Jian-Feng Cai‬](https://www.math.ust.hk/~jfcai/)
 * B.S. in Applied Mathematics, [Sichuan University](http://en.scu.edu.cn/), 2012-2015
-* Study in Medicine, [Sichuan Medical University](http://wcums.scu.edu.cn/index/wzsy.htm), 2010-2012
+* Study in Medicine, [West China Medical Center, Sichuan University](http://wcums.scu.edu.cn/index/wzsy.htm), 2010-2012
 
 
 
