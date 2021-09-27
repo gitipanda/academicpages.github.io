@@ -34,6 +34,6 @@ djkdjdj
 dkdkkdkdajdaaaafnslsdlndflsdddddd
 -->
 
-![](/images/bio-photo.jpg) ![](/images/bio-photo-2.jpg){: style="float: left"; margin-right: 2em; height="200" width="200"}   Fast Global Convergence in Random Sensing Problems for Low-rank Matrix with Random Initialization (working paper). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, 2021.Fast Global Convergence in Random Sensing Problems for Low-rank Matrix with Random Initialization (working paper). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, 2021.Fast Global Convergence in Random Sensing Problems for Low-rank Matrix with Random Initialization (working paper). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, 2021.Fast Global Convergence in Random Sensing Problems for Low-rank Matrix with Random Initialization (working paper). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, 2021.
+![](/images/es1.png) ![](/images/es2.png){: style="float: left"; margin-right: 2em; height="200" width="200"} Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization. In this project, we explore how Riemannian gradient descent method will escape strict saddle sets asymptotically, and converge to local minimizers and shows examples in phase retrieval and variational eigen problems.
 
 
