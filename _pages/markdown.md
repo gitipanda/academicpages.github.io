@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: 
-permalink: /cv/
+permalink: /markdown/
 author_profile: true
 redirect_from:
   - /resume
@@ -12,69 +12,16 @@ redirect_from:
 
 
 <span style="font-size:18pt;">**Publication**</span>
-* Postdoctoral researcher, [Computational + Mathematical Science](http://cms.caltech.edu), Caltech, Jun 2020 - now. Mentor: [Thomas Yizhao Hou](http://users.cms.caltech.edu/~hou/)
-* Visiting Research Student, [Computational + Mathematical Science](http://cms.caltech.edu), Caltech, Jan 2019 - Jan 2020. Host: [Thomas Yizhao Hou](http://users.cms.caltech.edu/~hou/)
-* Ph.D in Applied Mathematics, [Hong Kong University of Science and Technology](http://www.math.ust.hk/), 2015-2020. Advisor: [‪Jian-Feng Cai‬](https://www.math.ust.hk/~jfcai/)
-* M.S. in Applied Mathematics, [Sichuan University](http://en.scu.edu.cn/), 2012-2015
-* B.S. in Medicine, [Sichuan Medical University](http://wcums.scu.edu.cn/index/wzsy.htm), 2010-2012
+* Fast Global Convergence in Random Sensing Problems for Low-rank Matrix with Random Initialization. Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, 2021.
 
+* Robust low-rank matrix recovery by Riemannian subgradient method (working paper). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, 2021.
 
+* [Asymptotic escape of spurious fixed points on the low-rank matrix manifold](https://arxiv.org/abs/2107.09207). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, submitted to Communications of the AMS, 2021.
 
-<span style="font-size:18pt;">**Talks**</span>
-* Mar 2021: MS71 Computational Linear Algebra in Data Analysis
-  * SIAM Conference on Computational Science and Engineering, Zoom
-  
-* Dec 2019: CMX seminar
-  * CMS, California Institute of Technology, Pasadena, US
+* [Fast Global Convergence for Low-rank Matrix Recovery via Riemannian Gradient Descent with Random Initialization](https://arxiv.org/abs/2012.15467). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, submitted to Foundations of Computational Mathematics (FoCM), 2021.
 
-* Jul 2019: Oral presentation
-  * International Congress on Industrial and Applied Mathematics, Universitat de València, Spain
-  
-* June 2017: Phase Retrieval: Theory, Application and Algorithms
-  * ICERM, Brown University, US
+* [Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization](https://epubs.siam.org/doi/abs/10.1137/19M129437X?mobileUi=0&). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, SIAM Journal on Mathematics of Data Science, 2020, 2(3): 840-871.
 
-* Apr 2017 - Dec 2017: Wechat Laboratory
-  * Project: We collaborated with Wechat lab, help them solve real-time video denoising problem. In the project, we are using wavelet tools to establish noise level detection and a data driven dictionary learning method to do the denoising task. This work is based in Hong Kong, China.
+* [Nonconvex Optimization for Low-rank Matrix Related Problems]. Zhenzhen Li, Ph.D. Thesis, Hong Kong University of Science and Technology, 2020.
 
-* Fall 2015: Visiting  [Beijing Internantional Center for Mathematical Research](http://bicmr.pku.edu.cn/)
-  * Intensive courses in mathematics: Functional Analysis2, PDE, Remmanian Geometry
-
-* Summer 2014: Modeling Researcher
-  * [HUAXI Futures Company](http://www.hxqh168.com/index.shtml)
-  * Project: Develop quantitative trading strategy. My strategy is used practically in their real trading models.
-
-<span style="font-size:18pt;">**Skills**</span>
-* MATLAB
-* C++
-* Python
-* Linux
-* Math Tools
-  * Optimization
-  * Probability
-  * Linear Algebra
-  * Harmonic Analysis
-
-<span style="font-size:18pt;">**Teaching (Tutorials)**</span>
-* MAth 1012 Calculus IA 
-* Math 1013 Calculus IB
-* Math 2121 Linear Algebra
-* Math 3322 Matrix Computation
-* Math 3332 Data Analytic Tools
-* Math 5007 Optimization and Matrix Computation (Graduate Level)
-  
-<span style="font-size:18pt;">**Honors**</span>
-*  *Research Travelling Grants*, 2019, Hong Kong University of Science and Technology, 13500 HKD.
-*  *Oversea Research Award*, 2019, Hong Kong University of Science and Technology: 45600 HKD.
-*  *Hong Kong PhD Fellowship*, 2015-2019, Research Grants Council (RGC) of Hong Kong: 1,021,200 HKD.
-*  *Din-Yu Hsieh "Best Teaching Assistant" Award*, May 2018, Hong Kong University of Science and Technology.
-*  *Din-Yu Hsieh "Best Teaching Assistant" Award*, May 2017, Hong Kong University of Science and Technology.
-*  *Din-Yu Hsieh "Best Teaching Assistant" Award*, May 2016, Hong Kong University of Science and Technology.
-*  *Meritorious Winner in Mathematical Contest In Modeling*,Dec 2014, COMAP.
-*  *National Scholarship* (Wu Yuzhang Honors), Sichuan University, Oct 2014, Ministry of Education of P.R.China: 8000 RMB.
-*  *National Scholarship* (Mathematics), Sichuan University, Oct 2013, Ministry of Education of P.R.China: 8000 RMB.
-*  *First Prize in China Undergraduate Mathematical Contest in Modeling*, Sichuan Division, 2012.
-*  *National Scholarship* (Medicine), Sichuan University, Oct 2011, Ministry of Education of P.R.China: 8000 RMB.
-*  *premier Student Scholarship*, Sichuan University, 2011 - 2015.
-
-
-
+*  [Towards the Optimal Construction of a Loss Function without Spurious Local Minima for Solving Quadratic Equations](https://ieeexplore.ieee.org/document/8918236). Zhenzhen Li, Jian-feng Cai, Ke Wei, IEEE Transactions on Information Theory, 66(5): 3242--3260, 2020.
