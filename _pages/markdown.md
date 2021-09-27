@@ -28,12 +28,6 @@ redirect_from:
 
 <span style="font-size:18pt;">**Projects**</span>
 
-<!---
-[image](/es1.png){: style="float: left"; margin-right: 2em; height="10%" width="10%"}
-![](/images/es1.png){: height="100" width="100"} ![](/images/es2.png){: style="float: left"; margin-right: 2em; height="100" width="100"} Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization. In this project, we explore how Riemannian gradient descent method will escape strict saddle sets asymptotically, and converge to local minimizers and shows examples in phase retrieval and variational eigen problems.
--->
-
-
 <p float="left">
   <img src="/images/rPCA.png" width="300" align="center" style="margin-left: 6em; margin-right: 8em"/>
 </p> 
@@ -59,4 +53,6 @@ In this project, we explore theoretical guarantee for Riemannian subgradient des
 In this project, we explore how Riemannian gradient descent method will escape strict saddle sets asymptotically, and converge to local minimizers and shows examples in phase retrieval and variational eigen problems.
 <br />
 <img src="/images/es2.png" align="left" width="200" style="margin-right: 2em"/> 
+[image](/es1.png){: style="float: left"; margin-right: 2em; height="10%" width="10%"}
+![](/images/es1.png){: height="100" width="100"} ![](/images/es2.png){: style="float: left"; margin-right: 2em; height="100" width="100"} Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization. In this project, we explore how Riemannian gradient descent method will escape strict saddle sets asymptotically, and converge to local minimizers and shows examples in phase retrieval and variational eigen problems.
 -->
