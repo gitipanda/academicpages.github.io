@@ -32,7 +32,7 @@ redirect_from:
 djkdjdj
 dkdkkdkdajdaaaafnslsdlndflsdddddd
 
-![](/images/bio-photo.png) ![](/images/bio-photo-2.png){: style="float: left"; margin-right: 2em; height="10%" width="10%"}
+![](/images/bio-photo.jpg) ![](/images/bio-photo-2.jpg){: style="float: left"; margin-right: 2em; height="10%" width="10%"}
 
 <p float="left">
   <img src="images/profile.png" width="100" />
