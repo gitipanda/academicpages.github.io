@@ -28,5 +28,7 @@ redirect_from:
 
 <span style="font-size:18pt;">**Projects**</span>
 
+![GitHub Logoldlldldld](/images/profile2.jpg)
+
 ![image](profile2.jpg){: style="float: left; margin-right: 1em;"}
 Some text.
