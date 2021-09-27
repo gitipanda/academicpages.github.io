@@ -38,7 +38,7 @@ redirect_from:
   <img src="/images/fountain_original.png" align="left" width="200" style="margin-right: 0em"/>
   <img src="/images/fountain.png" align="left" width="200" style="margin-right: 0em"/> 
   <img src="/images/shopmall_resized.png" align="left" width="200" style="margin-right: 0em"/>
-  <img src="/images/shopmall_resized_orginal.png" align="left" width="200" style="margin-right: 1em"/> 
+  <img src="/images/shopmall_resized_orginal.png" align="left" width="200" style="margin-right: 2em"/> 
 </p>
 *Robust low-rank matrix recovery by Riemannian subgradient method.* In this project, we explore theoretical guarantee for Riemannian subgradient descent method in solving the robust PCA. The numerical experiments show that our method is 20% faster than prior methods such as:  AccAltProj, AltProj and GD based method.
 
