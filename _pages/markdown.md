@@ -28,17 +28,9 @@ redirect_from:
 
 <span style="font-size:18pt;">**Projects**</span>
 
-![image](/images/profile2.jpg){: style="float: left"; margin-right: 2em; height="10%" width="10%"}
+![image](/images/es1.png,es2.png){: style="float: left"; margin-right: 2em; height="10%" width="10%"}
 djkdjdj
 dkdkkdkdajdaaaafnslsdlndflsdddddd
 
 
-<div style="clear: both;">
-  <div style="float: left; margin-right 1em;">
-    <img src="profile2.jpg" alt="">
-  </div>
-  <div>
-    <h2>Some title text</h2>
-    <p>Some more text that will appear to the left of the image.</p>
-  </div>
-</div>
+
