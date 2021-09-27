@@ -34,6 +34,6 @@ djkdjdj
 dkdkkdkdajdaaaafnslsdlndflsdddddd
 -->
 
-![](/images/es1.png) ![](/images/es2.png){: style="float: left"; margin-right: 2em; height="100" width="100"} Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization. In this project, we explore how Riemannian gradient descent method will escape strict saddle sets asymptotically, and converge to local minimizers and shows examples in phase retrieval and variational eigen problems.
+![](/images/es1.png) ![](/images/es2.png){: style="float: left"; margin-right: 2em; height="50" width="50"} Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization. In this project, we explore how Riemannian gradient descent method will escape strict saddle sets asymptotically, and converge to local minimizers and shows examples in phase retrieval and variational eigen problems.
 
 
