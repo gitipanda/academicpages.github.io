@@ -47,8 +47,8 @@ In this project, we explore how Riemannian gradient descent method will escape s
 
 
 <p float="left">
-  <img src="/images/dn1.png" width="200" align="left" style="margin-right: 1em"/>  
-  <img src="/images/dn2.png" width="200" align="left" style="margin-right: 2em"/> 
+  <img src="/images/dn1.jpg" width="200" align="left" style="margin-right: 1em"/>  
+  <img src="/images/dn2.jpg" width="200" align="left" style="margin-right: 2em"/> 
 </p>
 <em>Real-time noise level detection and denoising</em>
 <br/>
