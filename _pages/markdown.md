@@ -35,8 +35,8 @@ redirect_from:
 
 
 <p float="left">
-  <img src="/images/fountain_original.png" align="left" width="200" style="margin-right: 0em"/>
-  <img src="/images/fountain.png" align="left" width="200" style="margin-right: 0em"/> 
+  <img src="/images/fountain_original.png" align="left" width="200" style="margin-right: 1em"/>
+  <img src="/images/fountain.png" align="left" width="200" style="margin-right: 1em"/> <\br>
   <img src="/images/shopmall_resized.png" align="left" width="200" style="margin-right: 0em"/>
   <img src="/images/shopmall_resized_orginal.png" align="left" width="200" style="margin-right: 2em"/> 
 </p>
