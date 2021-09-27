@@ -54,7 +54,7 @@ In this project, we explore how Riemannian gradient descent method will escape s
 <br/>
 In this project, we develop noise level detection and establish a real-time videos denoising for Wechat video group. We use wavelet features and data-driven dictionary learning methods. Our package meets the industrial standard that can process a single frame within 1/100s and with satisfied video quality.
 <br/><br/>
-flag 8
+flag 9
 
 <!---
 <p float="left">
