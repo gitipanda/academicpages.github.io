@@ -46,7 +46,7 @@ In this project, we explore theoretical guarantee for Riemannian subgradient des
 In this project, we explore how Riemannian gradient descent method will escape strict saddle sets asymptotically, and converge to local minimizers and shows examples in phase retrieval and variational eigen problems.
 
 
-
+flag1
 
 
 
