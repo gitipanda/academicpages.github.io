@@ -34,6 +34,6 @@ djkdjdj
 dkdkkdkdajdaaaafnslsdlndflsdddddd
 -->
 
-![](/images/bio-photo.jpg) ![](/images/bio-photo-2.jpg){: style="float: left"; margin-right: 2em; height="200" width="200"}
+![](/images/bio-photo.jpg) ![](/images/bio-photo-2.jpg){: style="float: left"; margin-right: 2em; height="200" width="200"}   I love Ericccc
 
 
