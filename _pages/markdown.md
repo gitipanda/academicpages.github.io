@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-<span style="font-size:18pt;">**Education**</span>
+<span style="font-size:18pt;">**Publication**</span>
 * Postdoctoral researcher, [Computational + Mathematical Science](http://cms.caltech.edu), Caltech, Jun 2020 - now. Mentor: [Thomas Yizhao Hou](http://users.cms.caltech.edu/~hou/)
 * Visiting Research Student, [Computational + Mathematical Science](http://cms.caltech.edu), Caltech, Jan 2019 - Jan 2020. Host: [Thomas Yizhao Hou](http://users.cms.caltech.edu/~hou/)
 * Ph.D in Applied Mathematics, [Hong Kong University of Science and Technology](http://www.math.ust.hk/), 2015-2020. Advisor: [‪Jian-Feng Cai‬](https://www.math.ust.hk/~jfcai/)
@@ -20,7 +20,7 @@ redirect_from:
 
 
 
-<span style="font-size:18pt;">**Experience**</span>
+<span style="font-size:18pt;">**Talks**</span>
 * Mar 2021: MS71 Computational Linear Algebra in Data Analysis
   * SIAM Conference on Computational Science and Engineering, Zoom
   
