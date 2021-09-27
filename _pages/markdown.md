@@ -35,7 +35,7 @@ redirect_from:
 
 
 <p float="left">
-  <img src="/images/rPCA.png" width="300" style="float:left; margin-right: 1em;"/>
+  <img src="/images/rPCA.png" width="300" align="left" style="margin-right: 1em"/>
 </p> 
 <br/> <em>Robust low-rank matrix recovery by Riemannian subgradient method.</em> 
 <br/>
@@ -46,7 +46,7 @@ In this project, we explore theoretical guarantee for Riemannian subgradient des
 
 <!---
 <p float="left">
-  <img src="/images/es1.png" width="200" style="float:left; margin-right: 1em;"/>  
+  <img src="/images/es1.png" width="200" align="left" style="margin-right: 1em"/>  
   <img src="/images/es2.png" width="200" style="float:left; margin-right: 2em;"/> 
 </p>
 <em>Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization.</em>
