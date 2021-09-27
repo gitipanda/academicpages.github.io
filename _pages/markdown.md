@@ -28,7 +28,7 @@ redirect_from:
 
 <span style="font-size:18pt;">**Projects**</span>
 
-![image](/images/es1.png,es2.png){: style="float: left"; margin-right: 2em; height="10%" width="10%"}
+![image](/images/es1.png;es2.png){: style="float: left"; margin-right: 2em; height="10%" width="10%"}
 djkdjdj
 dkdkkdkdajdaaaafnslsdlndflsdddddd
 
