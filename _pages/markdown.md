@@ -44,8 +44,8 @@ In this project, we explore theoretical guarantee for Riemannian subgradient des
 
 
 <p float="left">
-  <img src="/images/es1.png" width="200" align="left" style="margin-right: 1em; margin-left: 5em;"/>  
-  <img src="/images/es2.png" width="200" align="left" style="margin-right: 2em; margin-left: 5em;"/> 
+  <img src="/images/es1.png" width="200" align="center" style="margin-right: 1em; margin-left: 5em;"/>  
+  <img src="/images/es2.png" width="200" align="center" style="margin-right: 2em; margin-left: 5em;"/> 
 </p>
 <em>Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization.</em>
 
