@@ -46,7 +46,7 @@ In this project, we explore theoretical guarantee for Riemannian subgradient des
 <em>Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization.</em>
 <br/>
 In this project, we explore how Riemannian gradient descent method will escape strict saddle sets asymptotically, and converge to local minimizers and shows examples in phase retrieval and variational eigen problems.
-
+<br/><br/>
 
 <p float="left">
   <img src="/images/dn1.jpg" width="250" align="left" style="margin-right: 1em"/>  
