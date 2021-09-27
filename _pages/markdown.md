@@ -29,7 +29,7 @@ redirect_from:
 <span style="font-size:18pt;">**Projects**</span>
 
 <p float="left">
-  <img src="/images/rPCA.png" width="300" align="center" style="margin-left: 6em; margin-right: 8em"/>
+  <img src="/images/rPCA.png" width="300" align="center" style="margin-right: 8em"/>
 </p> 
 <br/> <em>Robust low-rank matrix recovery by Riemannian subgradient method.</em> 
 <br/>
