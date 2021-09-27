@@ -41,7 +41,6 @@ In this project, we explore theoretical guarantee for Riemannian subgradient des
   <img src="/images/es1.png" width="200" align="left" style="margin-right: 1em"/>  
   <img src="/images/es2.png" width="200" align="left" style="margin-right: 2em"/> 
 </p>
-<br/>
 <em>Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization.</em>
 <br/>
 In this project, we explore how Riemannian gradient descent method will escape strict saddle sets asymptotically, and converge to local minimizers and shows examples in phase retrieval and variational eigen problems.
@@ -51,7 +50,6 @@ In this project, we explore how Riemannian gradient descent method will escape s
   <img src="/images/dn1.jpg" width="200" align="left" style="margin-right: 1em"/>  
   <img src="/images/dn2.jpg" width="200" align="left" style="margin-right: 2em"/> <br/><br/>
 </p>
-<br/>
 <em>Real-time noise level detection and denoising</em>
 <br/>
 In this project, we develop noise level detection and establish a real-time videos denoising for Wechat video group. We use wavelet features and data-driven dictionary learning methods. Our package meets the industrial standard that can process a single frame within 1/100s and with satisfied video quality.
