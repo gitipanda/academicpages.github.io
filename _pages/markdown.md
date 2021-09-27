@@ -28,7 +28,7 @@ redirect_from:
 
 <span style="font-size:18pt;">**Projects**</span>
 
-![some text??](/images/profile2.jpg){: style="float: left"}
+![some text??](/images/profile2.jpg){: style="float: left"; margin-right: 10em; height="25%" width="25%"}
 djkdjdj
 dkdkkdkd
 
