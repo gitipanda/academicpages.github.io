@@ -29,14 +29,6 @@ redirect_from:
 <span style="font-size:18pt;">**Projects**</span>
 <br/>
 
-<div class="row">
-  <div class="column"><p float="left">
-  <img src="/images/rPCA.png" width="300" align="left" style="margin-right: 8em"/>
-</p> </div>
-  <div class="column"> <em>Robust low-rank matrix recovery by Riemannian subgradient method.</em> 
-<br/>
-In this project, we explore theoretical guarantee for Riemannian subgradient descent method in solving the robust PCA problem. The numerical experiments show that our method is 20% faster than prior methods such as:  AccAltProj, AltProj and GD based method.</div>
-</div>
 
 <p float="left">
   <img src="/images/rPCA.png" width="300" align="left" style="margin-right: 8em"/>
@@ -64,7 +56,7 @@ In this project, we explore how Riemannian gradient descent method will escape s
 <br/>
 In this project, we develop noise level detection and establish a real-time videos denoising for Wechat video group. We use wavelet features and data-driven dictionary learning methods. Our package meets the industrial standard that can process a single frame within 1/100s and with satisfied video quality.
 <br/><br/>
-flag 10
+flag 11
 
 <!---
 <p float="left">
@@ -77,4 +69,16 @@ In this project, we explore how Riemannian gradient descent method will escape s
 <img src="/images/es2.png" align="left" width="200" style="margin-right: 2em"/> 
 [image](/es1.png){: style="float: left"; margin-right: 2em; height="10%" width="10%"}
 ![](/images/es1.png){: height="100" width="100"} ![](/images/es2.png){: style="float: left"; margin-right: 2em; height="100" width="100"} Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization. In this project, we explore how Riemannian gradient descent method will escape strict saddle sets asymptotically, and converge to local minimizers and shows examples in phase retrieval and variational eigen problems.
+
+
+
+<div class="row">
+  <div class="column"><p float="left">
+  <img src="/images/rPCA.png" width="300" align="left" style="margin-right: 8em"/>
+</p> </div>
+  <div class="column"> <em>Robust low-rank matrix recovery by Riemannian subgradient method.</em> 
+<br/>
+In this project, we explore theoretical guarantee for Riemannian subgradient descent method in solving the robust PCA problem. The numerical experiments show that our method is 20% faster than prior methods such as:  AccAltProj, AltProj and GD based method.</div>
+</div>
+
 -->
