@@ -32,7 +32,7 @@ redirect_from:
   <img src="/images/rPCA.png" width="300" align="left" style="margin-right: 8em"/>
 </p> 
 <br/> <em>Robust low-rank matrix recovery by Riemannian subgradient method.</em> 
-<br/><br/><br/>
+<br/>
 In this project, we explore theoretical guarantee for Riemannian subgradient descent method in solving the robust PCA problem. The numerical experiments show that our method is 20% faster than prior methods such as:  AccAltProj, AltProj and GD based method.
 <br/><br/><br/>
 
