@@ -57,7 +57,7 @@ In this project, we develop noise level detection and establish a real-time vide
 
 
 <p float="left">
-  <img src="/images/return.png" width="300" align="left" style="margin-right: 9em"/>  
+  <img src="/images/return.png" width="300" align="left" style="margin-right: 8.5em"/>  
 </p>
 <br/><br/>
 <em>Quantitative modeling in trading future contracts</em>
@@ -65,7 +65,7 @@ In this project, we develop noise level detection and establish a real-time vide
 In this project, I developed a trading strategy which has robust return in real trading. I'm also playing algorithmic trading robots for interests.
 <br/><br/>
 
-
+falg
 
 
 
