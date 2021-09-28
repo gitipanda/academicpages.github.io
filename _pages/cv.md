@@ -71,7 +71,7 @@ redirect_from:
 *  National Scholarship (Wu Yuzhang Honors), Sichuan University, Oct 2014, Ministry of Education of P.R.China: 8000 RMB.
 *  National Scholarship (Mathematics), Sichuan University, Oct 2013, Ministry of Education of P.R.China: 8000 RMB.
 *  First Prize in China Undergraduate Mathematical Contest in Modeling, Sichuan Division, 2012.
-*  National Scholarship (Medicine), Sichuan University, Oct 2011, Ministry of Education of P.R.China: 8000 RMB.
+*  National Scholarship (Medical Sciences), Sichuan University, Oct 2011, Ministry of Education of P.R.China: 8000 RMB.
 *  Premier Student Scholarship, Sichuan University, 2011 - 2015.
 
 
