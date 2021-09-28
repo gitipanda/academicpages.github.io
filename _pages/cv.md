@@ -12,9 +12,10 @@ redirect_from:
 
 
 <span style="font-size:18pt;">**Education**</span>
-* Postdoctoral researcher, [Computational + Mathematical Science](http://cms.caltech.edu), Caltech, Jun 2020 - now. Mentor: [Thomas Yizhao Hou](http://users.cms.caltech.edu/~hou/)
-* Visiting Research Student, [Computational + Mathematical Science](http://cms.caltech.edu), Caltech, Jan 2019 - Jan 2020. Host: [Thomas Yizhao Hou](http://users.cms.caltech.edu/~hou/)
-* Ph.D in Applied Mathematics, [Hong Kong University of Science and Technology](http://www.math.ust.hk/), 2015-2020. Advisor: [‪Jian-Feng Cai‬](https://www.math.ust.hk/~jfcai/)
+* Postdoctoral researcher, [Computational + Mathematical Science](http://cms.caltech.edu), Caltech, Jun 2020 - now, mentor: [Thomas Yizhao Hou](http://users.cms.caltech.edu/~hou/)
+* Visiting research student, [Computational + Mathematical Science](http://cms.caltech.edu), Caltech, Jan 2019 - Jan 2020, host: [Thomas Yizhao Hou](http://users.cms.caltech.edu/~hou/)
+* Ph.D in Applied Mathematics, [Hong Kong University of Science and Technology](http://www.math.ust.hk/), 2015-2020, advisor: [‪Jian-Feng Cai‬](https://www.math.ust.hk/~jfcai/)
+* Visiting student, [Beijing Internantional Center for Mathematical Research](http://bicmr.pku.edu.cn/)-Peking University, Spring 2015, study intensive courses in mathematics: Functional Analysis2, PDE, Remmanian Geometry.
 * B.S. in Applied Mathematics, [Sichuan University](http://en.scu.edu.cn/), 2012-2015
 * Study in Medicine, [West China Medical Center, Sichuan University](http://wcums.scu.edu.cn/index/wzsy.htm), 2010-2012
 
@@ -36,11 +37,8 @@ redirect_from:
 * Apr 2017 - Dec 2017: Wechat Laboratory
   * Project: We collaborated with the Wechat lab, helped them solve real-time video denoising problems. In the project, we use wavelet tools to establish noise level detection and a data-driven dictionary learning method to do the denoising task. This work is conducted in Hong Kong, China.
 
-* Fall 2015: Visiting  [Beijing Internantional Center for Mathematical Research](http://bicmr.pku.edu.cn/)
-  * Intensive courses in mathematics: Functional Analysis2, PDE, Remmanian Geometry, Peking University, China.
-
 * Summer 2014: Modeling Researcher
-  * [HUAXI Futures Company](http://www.hxqh168.com/index.shtml)
+  * HUAXI Futures Company
   * Project: Develop quantitative trading strategy. My strategy is used practically in their real trading models. This work is conducted in Chengdu, China.
 
 <span style="font-size:18pt;">**Skills**</span>
