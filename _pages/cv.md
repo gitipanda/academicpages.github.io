@@ -35,11 +35,11 @@ redirect_from:
   * ICERM, Brown University, US
 
 * Apr 2017 - Dec 2017: Wechat Laboratory
-  * Project: We collaborated with the Wechat lab, helped them solve real-time video denoising problems. In the project, we use wavelet tools to establish noise level detection and a data-driven dictionary learning method to do the denoising task. This work is conducted in Hong Kong, China.
-
+  * Project: We collaborated with the Wechat laboratory, helped them solve real-time video denoising problems. In this project, we use wavelet tools to establish noise level detection function and use a data-driven dictionary learning method to do the denoising task. I played a major role in algorithmic design and writing the algorithmic package with C++.This work is conducted in Hong Kong, China.
+  
 * Summer 2014: Modeling Researcher
   * HUAXI Futures Company
-  * Project: Develop quantitative trading strategy. My strategy is used practically in their real trading models. This work is conducted in Chengdu, China.
+  * Project: Our duty is to develop quantitative trading strategies. My strategy is used practically in their real trading models. This work is conducted in Chengdu, China.
 
 <span style="font-size:18pt;">**Skills**</span>
 * MATLAB
