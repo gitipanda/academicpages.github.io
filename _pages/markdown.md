@@ -18,7 +18,7 @@ redirect_from:
 
 * [<span style="color:#3da2ce">*Asymptotic escape of spurious fixed points on the low-rank matrix manifold*</span>](https://arxiv.org/abs/2107.09207). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, submitted to Communications of the AMS, 2021.
 
-* [<span style="color:#3da2ce">*Fast Global Convergence for Low-rank Matrix Recovery via Riemannian Gradient Descent with Random Initialization*</span>](https://arxiv.org/abs/2012.15467). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, submitted to Foundations of Computational Mathematics (FoCM), 2021.
+* [<span style="color:#3da2ce">*Fast Global Convergence for Low-rank Matrix Recovery via Riemannian Gradient Descent with Random Initialization*</span>](https://arxiv.org/abs/2012.15467). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, submitted 2021.
 
 * [<span style="color:#3da2ce">*Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization*</span>](https://epubs.siam.org/doi/abs/10.1137/19M129437X?mobileUi=0&). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, SIAM Journal on Mathematics of Data Science, 2020, 2(3): 840-871.
 
