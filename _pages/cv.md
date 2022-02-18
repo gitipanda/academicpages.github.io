@@ -61,17 +61,17 @@ redirect_from:
 * Math 5007 Optimization and Matrix Computation (Graduate Level)
   
 <span style="font-size:18pt;">**Honors**</span>
-*  Research Travelling Grants, 2019, Hong Kong University of Science and Technology, 13500 HKD.
-*  Oversea Research Award, 2019, Hong Kong University of Science and Technology: 45600 HKD.
-*  Hong Kong PhD Fellowship, 2015-2019, Research Grants Council (RGC) of Hong Kong: 1,021,200 HKD.
+*  Research Travelling Grants, 2019, Hong Kong University of Science and Technology.
+*  Oversea Research Award, 2019, Hong Kong University of Science and Technology.
+*  Hong Kong PhD Fellowship, 2015-2019, Research Grants Council (RGC) of Hong Kong.
 *  Din-Yu Hsieh "Best Teaching Assistant" Award, May 2018, Hong Kong University of Science and Technology.
 *  Din-Yu Hsieh "Best Teaching Assistant" Award, May 2017, Hong Kong University of Science and Technology.
 *  Din-Yu Hsieh "Best Teaching Assistant" Award, May 2016, Hong Kong University of Science and Technology.
 *  Meritorious Winner in Mathematical Contest In Modeling,Dec 2014, COMAP.
-*  National Scholarship (Wu Yuzhang Honors), Sichuan University, Oct 2014, Ministry of Education of P.R.China: 8000 RMB.
-*  National Scholarship (Mathematics), Sichuan University, Oct 2013, Ministry of Education of P.R.China: 8000 RMB.
+*  National Scholarship (Wu Yuzhang Honors), Sichuan University, Oct 2014, Ministry of Education of P.R.China.
+*  National Scholarship (Mathematics), Sichuan University, Oct 2013, Ministry of Education of P.R.China.
 *  First Prize in China Undergraduate Mathematical Contest in Modeling, Sichuan Division, 2012.
-*  National Scholarship (Medical Sciences), Sichuan University, Oct 2011, Ministry of Education of P.R.China: 8000 RMB.
+*  National Scholarship (Medical Sciences), Sichuan University, Oct 2011, Ministry of Education of P.R.China.
 *  Premier Student Scholarship, Sichuan University, 2011 - 2015.
 
 
