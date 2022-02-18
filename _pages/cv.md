@@ -49,8 +49,7 @@ redirect_from:
 * Math Tools
   * Optimization
   * Probability
-  * Linear Algebra
-  * Harmonic Analysis
+  * Matrix analysis
 
 <span style="font-size:18pt;">**Teaching (Tutorials)**</span>
 * Math 1012 Calculus IA 
